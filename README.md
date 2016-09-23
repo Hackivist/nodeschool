@@ -1,2 +1,2 @@
 # nodeschool
-Nodeschool learnings
+This repository has all my Nodeschool learnings.
